@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm a CS major at the University of Ghana and also a GitHub Campus Memeber.
+- 🔭 I'm a Software Engineer at WiV Technologies
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kelvin-nketia-achiampong/).
 - Pronouns: He/Him 
 
