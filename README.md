@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm a Software Engineer at WiV Technologies
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kelvin-nketia-achiampong/).
+- 🔭 I'm a Software Engineer 
 - Pronouns: He/Him 
 
 - ![](https://komarev.com/ghpvc/?username=logosrhema01&style=blueviolet)
