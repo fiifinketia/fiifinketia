@@ -12,9 +12,6 @@ optimizing system performance, and contributing to innovative projects in AI and
 
 EXPERIENCE:
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
-
 
 Data Intelligence and Swarm Analytics Laboratory
 Software Engineer - Full Stack
